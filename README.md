@@ -7,6 +7,7 @@ $ Objectives
    read a qr code and extract the details
 
 $ End point details
+
    /genQrCode
 
      This is a Get request where user provides web url and it returns a QR code. Upon scanning the QR code, it redirects user to the web page of web url
